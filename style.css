@@ -1,10 +1,10 @@
 * {
-    height: 50px;
+    height: 20px;
     margin: 0;
     padding: 0;
     width: 100%;
-    max-width: 900px;
-    margin: 0 auto 20px;
+    max-width: 600px;
+    margin: 0 auto 10px;
     }
 
 body {
@@ -12,9 +12,9 @@ body {
 }
 
 img {
-    height: 260px;
-    width: 100vh;
-    margin-bottom: 40px;
+    height: 190px;
+    width: 100%;
+    margin-bottom: 15px;
     align-items: center; 
 }
 
@@ -24,27 +24,33 @@ h1, h2, a, p {
     }
 
 h1 {
-    font-size: 45px;
+    font-size: 30px;
     border-bottom:lightsteelblue;
     border-bottom: solid 2px rgb(55, 142, 214);
 
-    height: 55px;
+    height: 40px;
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 28px;
+    height: 35px;
+    padding-top: 2px;
 }
 
 
 p {
-    font-size: 20px;
+    font-size: 14px;
     text-align: left;
+    padding-top: 2px;
+ 
+    
 }
 
 a:link {
-    font-size: 35px;
+    font-size: 25px;
     color: white;
     text-decoration: none;
+
 }
 
 a:hover {
@@ -57,10 +63,11 @@ a:active {
 
 
 footer p {
-    font-size: 25px; 
+    font-size: 18px; 
     text-align: center;
 
     height: 15px;
+
 }
 
 .email {
