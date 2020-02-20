@@ -51,6 +51,8 @@ a:link {
     color: white;
     text-decoration: none;
 
+    margin-top: 12%;
+
 }
 
 a:hover {
@@ -73,6 +75,6 @@ footer p {
 .email {
     margin-top: 12%;
     border-top: solid 0.1px rgb(55, 142, 214);
-    padding-top: 30px;
+    padding-top: 17px;
 }
 
